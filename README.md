@@ -113,6 +113,42 @@ This module covers more advanced supervised learning methods that include ensemb
 - Deep Learning (Optional)
 - Data Leakage
 - Dimensionality Reduction and Manifold Learning
-- Clustering14m
+- Clustering
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w4-Build%20your%20Deep%20Neural%20Network%20step%20by%20step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb">Building your Deep Neural Network: Step by Step</a>
+ 
+ # Course 4: Applied Text Mining in Python
+
+## Week 1:  Working with Text in Python
+ 
+- Introduction to Text Mining
+- Handling Text in Python
+- Regular Expressions
+- Demonstration: Regex with Pandas and Named Groups
+- Internationalization and Issues with Non-ASCII Characters
+
+## Week 2:Basic Natural Language Processing
+
+- Basic Natural Language Processing
+- Basic NLP tasks with NLTK
+- Advanced NLP tasks with NLTK
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w2-Logisitc%20Regression%20as%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb"> Logistic Regression with a Neural Network mindset</a>
+
+## Week 3:Classification of Text
+
+- Text Classification
+- Identifying Features from Text
+- Naive Bayes Classifiers
+- Naive Bayes Variations
+- Support Vector Machines
+- Learning Text Classifiers in Python
+- Demonstration: Case Study - Sentiment Analysis
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w3-Planar%20data%20classfication%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb">Planar data classification with one hidden layer</a>
+
+## Week 4 :Topic Modeling
+
+- Semantic Text Similarity
+- Topic Modeling
+- Generative Models and LDA
+- Information Extraction
 - <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w4-Build%20your%20Deep%20Neural%20Network%20step%20by%20step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb">Building your Deep Neural Network: Step by Step</a>
  
