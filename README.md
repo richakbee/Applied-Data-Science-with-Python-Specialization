@@ -95,7 +95,7 @@ This module delves into a wider variety of supervised learning methods for both 
 This module covers evaluation and model selection methods that you can use to help understand and optimize the performance of your machine learning models.
 
 - Model Evaluation & Selection
-- - Confusion Matrices & Basic Evaluation Metrics
+- Confusion Matrices & Basic Evaluation Metrics
 - Classifier Decision Functions
 - Precision-recall and ROC curves
 - Multi-Class Evaluation
@@ -150,5 +150,45 @@ This module covers more advanced supervised learning methods that include ensemb
 - Topic Modeling
 - Generative Models and LDA
 - Information Extraction
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w4-Build%20your%20Deep%20Neural%20Network%20step%20by%20step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb">Building your Deep Neural Network: Step by Step</a>
+ 
+ # Course 5: Applied Social Network Analysis in Python
+
+## Week 1:  Why Study Networks and Basics on NetworkX
+Module One introduces you to different types of networks in the real world and why we study them. You'll learn about the basic elements of networks, as well as different types of networks. You'll also learn how to represent and manipulate networked data using the NetworkX library. The assignment will give you an opportunity to use NetworkX to analyze a networked dataset of employees in a small company.
+ 
+- Networks: Definition and Why We Study Them
+- Network Definition and Vocabulary
+- Node and Edge Attributes
+- Bipartite Graphs
+- TA Demonstration: Loading Graphs in NetworkX
+
+## Week 2:Network Connectivity
+In Module Two you'll learn how to analyze the connectivity of a network based on measures of distance, reachability, and redundancy of paths between nodes. In the assignment, you will practice using NetworkX to compute measures of connectivity of a network of email communication among the employees of a mid-size manufacturing company.
+
+- Clustering Coefficient
+- Distance Measures
+- Connected Components
+- Network Robustness
+- TA Demonstration: Simple Network Visualizations in NetworkX
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w2-Logisitc%20Regression%20as%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb"> Logistic Regression with a Neural Network mindset</a>
+
+## Week 3:Influence Measures and Network Centralization
+In Module Three, you'll explore ways of measuring the importance or centrality of a node in a network, using measures such as Degree, Closeness, and Betweenness centrality, Page Rank, and Hubs and Authorities. You'll learn about the assumptions each measure makes, the algorithms we can use to compute them, and the different functions available on NetworkX to measure centrality. In the assignment, you'll practice choosing the most appropriate centrality measure on a real-world setting.
+
+- Degree and Closeness Centrality
+- Betweenness Centrality
+- Basic Page Rank
+- Scaled Page Rank
+- Hubs and Authorities
+- Centrality Examples
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w3-Planar%20data%20classfication%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb">Planar data classification with one hidden layer</a>
+
+## Week 4 :Network Evolution
+In Module Four, you'll explore the evolution of networks over time, including the different models that generate networks with realistic features, such as the Preferential Attachment Model and Small World Networks. You will also explore the link prediction problem, where you will learn useful features that can predict whether a pair of disconnected nodes will be connected in the future. In the assignment, you will be challenged to identify which model generated a given network. Additionally, you will have the opportunity to combine different concepts of the course by predicting the salary, position, and future connections of the employees of a company using their logs of email exchanges.
+
+- Preferential Attachment Model
+- Small World Networks
+- Link Prediction
 - <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w4-Build%20your%20Deep%20Neural%20Network%20step%20by%20step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb">Building your Deep Neural Network: Step by Step</a>
  
