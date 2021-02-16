@@ -128,13 +128,14 @@ This module covers more advanced supervised learning methods that include ensemb
 - Regular Expressions
 - Demonstration: Regex with Pandas and Named Groups
 - Internationalization and Issues with Non-ASCII Characters
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/4.Applied%20Text%20Mining%20in%20python/assignments/assignments%20solution/Assignment%2B1.ipynb">working with messy medical data and using regex to extract relevant infromation from the data.(Text Data Cleaning</a>
 
 ## Week 2:Basic Natural Language Processing
 
 - Basic Natural Language Processing
 - Basic NLP tasks with NLTK
 - Advanced NLP tasks with NLTK
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w2-Logisitc%20Regression%20as%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb"> Logistic Regression with a Neural Network mindset</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/4.Applied%20Text%20Mining%20in%20python/assignments/assignments%20solution/Assignment%2B2.ipynb">Introduction to NLTK</a>
 
 ## Week 3:Classification of Text
 
@@ -145,7 +146,7 @@ This module covers more advanced supervised learning methods that include ensemb
 - Support Vector Machines
 - Learning Text Classifiers in Python
 - Demonstration: Case Study - Sentiment Analysis
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w3-Planar%20data%20classfication%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb">Planar data classification with one hidden layer</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/4.Applied%20Text%20Mining%20in%20python/assignments/assignments%20solution/Assignment%2B3.ipynb">explore text message data and create models to predict if a message is spam or not.</a>
 
 ## Week 4 :Topic Modeling
 
@@ -153,7 +154,8 @@ This module covers more advanced supervised learning methods that include ensemb
 - Topic Modeling
 - Generative Models and LDA
 - Information Extraction
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w4-Build%20your%20Deep%20Neural%20Network%20step%20by%20step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb">Building your Deep Neural Network: Step by Step</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/4.Applied%20Text%20Mining%20in%20python/assignments/assignments%20solution/Assignment%2B4.ipynb">Document Similarity & Topic Modelling</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/4.Applied%20Text%20Mining%20in%20python/assignments/assignments%20solution/Case%2BStudy%2B-%2BSentiment%2BAnalysis.ipynb">Sentiment Analysis on Amazon Reviews</a>
  
  # Course 5: Applied Social Network Analysis in Python
 
