@@ -167,6 +167,7 @@ Module One introduces you to different types of networks in the real world and w
 - Node and Edge Attributes
 - Bipartite Graphs
 - TA Demonstration: Loading Graphs in NetworkX
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/5.Applied%20Social%20Network%20Analysis%20in%20python/assignments/assignments%20solution/Assignment%2B1.ipynb">Creating and Manipulating Graphs</a>
 
 ## Week 2:Network Connectivity
 In Module Two you'll learn how to analyze the connectivity of a network based on measures of distance, reachability, and redundancy of paths between nodes. In the assignment, you will practice using NetworkX to compute measures of connectivity of a network of email communication among the employees of a mid-size manufacturing company.
@@ -176,7 +177,7 @@ In Module Two you'll learn how to analyze the connectivity of a network based on
 - Connected Components
 - Network Robustness
 - TA Demonstration: Simple Network Visualizations in NetworkX
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w2-Logisitc%20Regression%20as%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb"> Logistic Regression with a Neural Network mindset</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/5.Applied%20Social%20Network%20Analysis%20in%20python/assignments/assignments%20solution/Assignment%2B2.ipynb"> Network Connectivity</a>
 
 ## Week 3:Influence Measures and Network Centralization
 In Module Three, you'll explore ways of measuring the importance or centrality of a node in a network, using measures such as Degree, Closeness, and Betweenness centrality, Page Rank, and Hubs and Authorities. You'll learn about the assumptions each measure makes, the algorithms we can use to compute them, and the different functions available on NetworkX to measure centrality. In the assignment, you'll practice choosing the most appropriate centrality measure on a real-world setting.
@@ -187,7 +188,7 @@ In Module Three, you'll explore ways of measuring the importance or centrality o
 - Scaled Page Rank
 - Hubs and Authorities
 - Centrality Examples
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w3-Planar%20data%20classfication%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb">Planar data classification with one hidden layer</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/5.Applied%20Social%20Network%20Analysis%20in%20python/assignments/assignments%20solution/Assignment%2B3.ipynb">explore measures of centrality on two networks, a friendship network in Part 1, and a blog network in Part 2</a>
 
 ## Week 4 :Network Evolution
 In Module Four, you'll explore the evolution of networks over time, including the different models that generate networks with realistic features, such as the Preferential Attachment Model and Small World Networks. You will also explore the link prediction problem, where you will learn useful features that can predict whether a pair of disconnected nodes will be connected in the future. In the assignment, you will be challenged to identify which model generated a given network. Additionally, you will have the opportunity to combine different concepts of the course by predicting the salary, position, and future connections of the employees of a company using their logs of email exchanges.
@@ -195,5 +196,5 @@ In Module Four, you'll explore the evolution of networks over time, including th
 - Preferential Attachment Model
 - Small World Networks
 - Link Prediction
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w4-Build%20your%20Deep%20Neural%20Network%20step%20by%20step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb">Building your Deep Neural Network: Step by Step</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/5.Applied%20Social%20Network%20Analysis%20in%20python/assignments/assignments%20solution/Assignment%2B4.ipynb"> Salary Prediction from friends salaries in social network</a>
  
