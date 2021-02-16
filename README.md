@@ -15,6 +15,7 @@
 - Advanced Python Lambda and List Comprehensions
 - Numerical Python Library (NumPy)
 - Manipulating Text with Regular Expression
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/1.Introduction%20to%20data%20science%20in%20python/assignments/assignment1/assignment1.ipynb">Assignment 1</a>
 
 ## Week 2:Basic Data Processing with Pandas
 learn the fundamentals of one of the most important toolkits Python has for data cleaning and processing -- pandas. You'll learn how to read in data into DataFrame structures, how to query these structures, and the details about such structures are indexed.
@@ -28,7 +29,7 @@ learn the fundamentals of one of the most important toolkits Python has for data
 - Indexing Dataframes
 - Missing Values
 - Example: Manipulating DataFrame
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w2-Logisitc%20Regression%20as%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb"> Logistic Regression with a Neural Network mindset</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/1.Introduction%20to%20data%20science%20in%20python/assignments/assignment2/assignment2.ipynb">Assignment 2</a>
 
 ## Week 3:More Data Processing with Pandas
 deepen your understanding of the python pandas library by learning how to merge DataFrames, generate summary tables, group data into logical pieces, and manipulate dates. We'll also refresh your understanding of scales of data, and discuss issues with creating metrics for analysis.
@@ -39,16 +40,16 @@ deepen your understanding of the python pandas library by learning how to merge 
 - Scales
 - Pivot Table
 - Date/Time Functionality
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w3-Planar%20data%20classfication%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb">Planar data classification with one hidden layer</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/1.Introduction%20to%20data%20science%20in%20python/assignments/assignment3/assignment3.ipynb">Assignment 3</a>
 
 ## Week 4 :Answering Questions with Messy Data
  a variety of statistical techniques such a distributions, sampling and t-tests
  
 - Basic Statistical Testing
 - Other Forms of Structured Data
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w4-Build%20your%20Deep%20Neural%20Network%20step%20by%20step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb">Building your Deep Neural Network: Step by Step</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/1.Introduction%20to%20data%20science%20in%20python/assignments/assignment4/assignment4.ipynb">Assignment 4</a>
 
-# Course 2: Applied Data Science with Python Specialization
+# Course 2: Applied Plotting,Charting & Visualization in python
 
 ## Week 1: Principles of Information Visualization
  you will get an introduction to principles of information visualization. We will be introduced to tools for thinking about design and graphical heuristics for thinking about creating effective visualizations.
@@ -73,6 +74,7 @@ explore charting fundamentals. For this week’s assignment you will work to imp
 - An Example Machine Learning Problem
 - Examining the Data
 - K-Nearest Neighbors Classification
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/3.Applied%20Machine%20Learning%20in%20Python/assignments/assignments%20solution/Assignment%2B1.ipynb">Introduction to Machine Learning</a>
 
 ## Week 2:Supervised Machine Learning - Part 1
 This module delves into a wider variety of supervised learning methods for both classification and regression, learning about the connection between model complexity and generalization performance, the importance of proper feature scaling, and how to control model complexity by applying techniques like regularization to avoid overfitting. In addition to k-nearest neighbors, this week covers linear regression (least-squares, ridge, lasso, and polynomial regression), logistic regression, support vector machines, the use of cross-validation for model evaluation, and decision trees.
@@ -89,7 +91,7 @@ This module delves into a wider variety of supervised learning methods for both 
 - Kernelized Support Vector Machines
 - Cross-Validation
 - Decision Trees
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w2-Logisitc%20Regression%20as%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb"> Logistic Regression with a Neural Network mindset</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/3.Applied%20Machine%20Learning%20in%20Python/assignments/assignments%20solution/Assignment%2B2.ipynb">Regression & Classification models</a>
 
 ## Week 3:Evaluation
 This module covers evaluation and model selection methods that you can use to help understand and optimize the performance of your machine learning models.
@@ -101,7 +103,7 @@ This module covers evaluation and model selection methods that you can use to he
 - Multi-Class Evaluation
 - Regression Evaluation
 - Model Selection: Optimizing Classifiers for Different Evaluation Metrics
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w3-Planar%20data%20classfication%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb">Planar data classification with one hidden layer</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/3.Applied%20Machine%20Learning%20in%20Python/assignments/assignments%20solution/Assignment%2B3.ipynb">Evaluation</a>
 
 ## Week 4 :Supervised Machine Learning - Part 2
 This module covers more advanced supervised learning methods that include ensembles of trees (random forests, gradient boosted trees), and neural networks (with an optional summary on deep learning). You will also learn about the critical problem of data leakage in machine learning and how to detect and avoid it.
@@ -114,7 +116,8 @@ This module covers more advanced supervised learning methods that include ensemb
 - Data Leakage
 - Dimensionality Reduction and Manifold Learning
 - Clustering
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w4-Build%20your%20Deep%20Neural%20Network%20step%20by%20step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb">Building your Deep Neural Network: Step by Step</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/3.Applied%20Machine%20Learning%20in%20Python/assignments/assignments%20solution/Assignment%2B4.ipynb">Understanding and Predicting Property Maintenance Fines</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Applied-Data-Science-with-Python-Specialization/blob/main/3.Applied%20Machine%20Learning%20in%20Python/assignments/assignments%20solution/Classifier%2BVisualization.ipynb">Classifier Visualization Playground</a>
  
  # Course 4: Applied Text Mining in Python
 
